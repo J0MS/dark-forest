@@ -1,0 +1,38 @@
+Build started at 2019-03-24T00:43:57.315596
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.50.0
+Source dir: /home/dev/Documents/Proyects/C++/dark-forest/data-structures/binarytree
+Build dir: /home/dev/Documents/Proyects/C++/dark-forest/data-structures/binarytree/builddir
+Build type: native build
+Project name: binarytree
+Project version: undefined
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /home/dev/Documents/Proyects/C++/dark-forest/data-structures/binarytree/builddir/meson-private/sanitycheckcpp.cc -o /home/dev/Documents/Proyects/C++/dark-forest/data-structures/binarytree/builddir/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/dev/Documents/Proyects/C++/dark-forest/data-structures/binarytree/builddir/meson-private/sanitycheckcpp.exe
+Native C++ compiler: c++ (gcc 7.4.0 "c++ (SUSE Linux) 7.4.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 1
+Found ninja-1.9.0 at /usr/bin/ninja
+Running compile:
+Working directory:  /tmp/tmpjwkkc176
+Command line:  c++ /tmp/tmpjwkkc176/testfile.cpp -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpjwkkc176/output.obj -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib64/gcc/x86_64-suse-linux/7/
+programs: =/usr/lib64/gcc/x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/:/usr/lib64/gcc/x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/
+libraries: =/usr/lib64/gcc/x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/lib/x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/lib/../lib64/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../x86_64-suse-linux/7/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../../lib64/:/lib/x86_64-suse-linux/7/:/lib/../lib64/:/usr/lib/x86_64-suse-linux/7/:/usr/lib/../lib64/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/lib/:/usr/lib64/gcc/x86_64-suse-linux/7/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 

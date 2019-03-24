@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/dev/Documents/Proyects/C++/dark-forest/data-structures/binarytree/builddir",
+    "command": "c++ -Ibinarytree@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -g -MD -MQ 'binarytree@exe/src_binarytree.cpp.o' -MF 'binarytree@exe/src_binarytree.cpp.o.d' -o 'binarytree@exe/src_binarytree.cpp.o' -c ../src/binarytree.cpp",
+    "file": "../src/binarytree.cpp",
+    "output": "binarytree@exe/src_binarytree.cpp.o"
+  }
+]
