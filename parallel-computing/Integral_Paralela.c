@@ -7,7 +7,8 @@ double paso;
 
 int main(void) {
   int i, nthreads;
-  double x, pi, sum = 0//, sum[NUM_THREADS];
+  //double x, pi, sum = 0//, sum[NUM_THREADS];
+  double x, pi, sum[NUM_THREADS];
 
   paso = 1.0/(double) npasos;
   omp_set_num_threads(NUM_THREADS);
